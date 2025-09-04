@@ -51,3 +51,22 @@ The project follows the **Medallion Architecture (Bronze → Silver → Gold)** 
 ## 📊 Power BI Dashboard
 
 <img width="1201" height="749" alt="Retail Project Power BI" src="https://github.com/user-attachments/assets/6919c6c0-892b-4ca4-a8d4-11037443a5be" />
+
+---
+
+## 📌 Project Highlights
+
+- ✅ **End-to-End Data Pipeline** (Ingestion → Processing → Visualization)  
+- ✅ **Cloud-Native & Scalable Architecture**  
+- ✅ **Follows Best Practices with Medallion Architecture**  
+- ✅ **Business-Ready Insights with Power BI**  
+
+---
+
+## 📬 Contact
+
+For queries, feel free to reach out:  
+
+**Sachin Dwivedi** – Azure Data Engineer  
+📧 [sd8667197@gmail.com](mailto:sd8667197@gmail.com)  
+
