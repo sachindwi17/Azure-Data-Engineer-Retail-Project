@@ -68,5 +68,5 @@ The project follows the **Medallion Architecture (Bronze → Silver → Gold)** 
 For queries, feel free to reach out:  
 
 **Sachin Dwivedi** – Azure Data Engineer  
-📧 [sd8667197@gmail.com](mailto:sd8667197@gmail.com)  
+📧 [sd8667197@gmail.com](mailto:sd8667197@gmail.com) 
 
